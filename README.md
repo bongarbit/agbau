@@ -1,5 +1,5 @@
-# Agbaixo
-Instrumento Agbaixo (também chamado de Agbau ou Agbaça), em processo de criação pelo BongarBit
+# Agbau
+Instrumento Agbaixo, em processo de criação pelo BongarBit
 
 [![Watch the video](https://youtu.be/48ikO1KuL8A)](https://youtu.be/48ikO1KuL8A)
 Vídeo de Ninho Brown, do Bongarbit, tocando o Agbau no Centro Cultural Grupo Bongar - Guitinho da Xambá em Olinda/PE
